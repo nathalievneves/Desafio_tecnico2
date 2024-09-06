@@ -1,7 +1,7 @@
 package desafios2;
 
 public class Desafio4 {
-	//4) Descubra a lógica e complete o próximo elemento:
+	//4) ...
 	
 	    //a) 1, 3, 5, 7, ___ = 9 (n+2)
 		//b) 2, 4, 8, 16, 32, 64, ____ = 128 (n*2)
